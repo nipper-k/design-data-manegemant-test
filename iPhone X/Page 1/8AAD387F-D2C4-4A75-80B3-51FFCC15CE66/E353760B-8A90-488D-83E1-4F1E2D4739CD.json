@@ -1,8 +1,9 @@
 {
-  "_class": "page",
-  "do_objectID": "c9ff85c0-3193-11e8-bb3d-1d4bd53cf0a9",
+  "_class": "symbolInstance",
+  "do_objectID": "E353760B-8A90-488D-83E1-4F1E2D4739CD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "318AA130-EDD1-40B8-A1DF-51F349E4DE30",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,50 +14,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "do_objectID": "043341A5-F8B6-4394-8DCD-C0B6AB5E3159",
+    "height": 44,
+    "width": 375,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "8AAD387F-D2C4-4A75-80B3-51FFCC15CE66"
-    },
-    {
-      "class": "artboard",
-      "id": "E6B4B1D0-50FA-4518-9D76-26914487F778"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Bars/Status Bar - iPhone X/On Light",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "616CAA78-643B-415A-AD4C-F707B087661B",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "DB0603DD-F41F-421A-A9AA-748066073D94",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
 }

@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "c9ff85c0-3193-11e8-bb3d-1d4bd53cf0a9",
+  "_class": "symbolInstance",
+  "do_objectID": "B0E4B717-F712-4BB5-B0C4-CDB5A078BA9F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,39 +13,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 333,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 479
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "8AAD387F-D2C4-4A75-80B3-51FFCC15CE66"
-    },
-    {
-      "class": "artboard",
-      "id": "E6B4B1D0-50FA-4518-9D76-26914487F778"
-    }
-  ],
-  "name": "Page 1",
+  "name": "System/Keyboard - iPhone X/Light - Emoji",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,10 +41,12 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "1591E0CA-8E62-4218-A22C-51C00623E651",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
 }

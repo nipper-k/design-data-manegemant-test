@@ -11035,6 +11035,237 @@
           ]
         }
       }
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 953,
+        "do_objectID": "BE852CB6-2C04-4B6F-92F6-034CCD4ACEB1",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 333,
+          "width": 375,
+          "x": 6840,
+          "y": 2818
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 1,
+        "layers": [
+          {
+            "_class": "bitmap",
+            "clippingMask": "{{0, 0}, {1, 1}}",
+            "do_objectID": "DE7C4A8D-E2CD-4CC0-9280-787E420E797E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fillReplacesImage": false,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "height": 333,
+              "width": 375,
+              "x": 0,
+              "y": 0
+            },
+            "image": {
+              "_class": "MSJSONFileReference",
+              "_ref": "images/3b9f10f426bde52a6d5653f04c5c6ab2a32d1044",
+              "_ref_class": "MSImageData"
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "Keyboard Emoji Light",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "endDecorationType": 0,
+              "miterLimit": 10,
+              "startDecorationType": 0
+            }
+          }
+        ],
+        "name": "System/Keyboard - iPhone X/Light - Emoji",
+        "nameIsFixed": true,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "72CC85B9-3DEE-49CB-8D5C-B5AAD05D1F61",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 954,
+        "do_objectID": "BE852CB6-2C04-4B6F-92F6-034CCD4ACEB1",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 333,
+          "width": 375,
+          "x": 6840,
+          "y": 2818
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 1,
+        "layers": [
+          {
+            "_class": "bitmap",
+            "clippingMask": "{{0, 0}, {1, 1}}",
+            "do_objectID": "DE7C4A8D-E2CD-4CC0-9280-787E420E797E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fillReplacesImage": false,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "height": 333,
+              "width": 375,
+              "x": 0,
+              "y": 0
+            },
+            "image": {
+              "_class": "MSJSONFileReference",
+              "_ref": "images/3b9f10f426bde52a6d5653f04c5c6ab2a32d1044",
+              "_ref_class": "MSImageData"
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "Keyboard Emoji Light",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "endDecorationType": 0,
+              "miterLimit": 10,
+              "startDecorationType": 0
+            }
+          }
+        ],
+        "name": "System/Keyboard - iPhone X/Light - Emoji",
+        "nameIsFixed": true,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "1591E0CA-8E62-4218-A22C-51C00623E651",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      }
     }
   ],
   "layerSymbols": {
